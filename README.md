@@ -43,3 +43,7 @@ Para inserir os nomes clique com o ponteiro esquerdo do mouse dentro do campo "D
 
 ![TelaaposSorteio](https://github.com/user-attachments/assets/c29a7730-e60c-4482-a231-1529a2fb18c5)
 
+## Licença
+### Educacional e não comercial
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
