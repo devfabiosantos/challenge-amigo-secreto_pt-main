@@ -1,7 +1,6 @@
 # Challenge: Sorteio de Amigo Secreto
-
-- ## O Challenge: Sorteio de Amigo Secreto, é uma atividade do curso ONE - Oracle Next Education - G8. O objetivo do challenge é aplicar os conhecimentos adquiridos nos cursos: Lógica de programação: mergulhe em programação com JavaScript; Lógica de programação: explore funções e listas; Git e GitHub: compartilhando e colaborando em projetos.
-___
+![TelaPrincipal](https://github.com/user-attachments/assets/4394ae21-7dd5-4e60-94de-76f2962e2137)
+- O Challenge: Sorteio de Amigo Secreto, é uma atividade do curso ONE - Oracle Next Education - G8. O objetivo do challenge é aplicar os conhecimentos adquiridos nos cursos: Lógica de programação: mergulhe em programação com JavaScript; Lógica de programação: explore funções e listas; Git e GitHub: compartilhando e colaborando em projetos.
 
 ## Utilizando o Sorteio de Amigo Secreto
 Nesta aplicação será permitido aos usuários inserirem nomes de amigos em uma lista, em seguida, realizar um sorteio aleatório determinando qual é o "AMIGO SECRETO!".
